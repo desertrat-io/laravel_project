@@ -20,3 +20,25 @@ kitchen.local.yml
 Berksfile.lock
 .zero-knife.rb
 Policyfile.lock.json
+
+# other
+.idea
+.vscode
+.DS_Store
+.AppleDouble
+.LSOverride
+.nfs*
+.Trash-*
+.directory
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+*.lnk
+[Dd]esktop.ini
