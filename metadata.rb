@@ -1,6 +1,6 @@
 name 'laravel_project'
 maintainer 'Mike Lawson'
-maintainer_email 'mlawson1986@gmail.com'
+maintainer_email 'mike@desertrat.io'
 license 'MIT'
 description 'Installs/Configures laravel_project'
 long_description 'Installs/Configures laravel_project'
