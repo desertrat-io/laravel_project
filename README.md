@@ -1,7 +1,7 @@
 # laravel_project, a Chef Cookbook
 
-![GitHub](https://img.shields.io/github/license/djzara/laravel_project)
-![GitHub](https://img.shields.io/github/issues/djzara/laravel_project)
+![GitHub](https://img.shields.io/github/license/desertrat-io/laravel_project)
+![GitHub](https://img.shields.io/github/issues/desertrat-io/laravel_project)
 
 # Why?
 

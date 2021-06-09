@@ -4,7 +4,7 @@
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-require 'spec_helper'
+require 'spec/spec_helper'
 
 describe 'laravel_project::default' do
   context 'When all attributes are default, on Ubuntu 18.04' do
